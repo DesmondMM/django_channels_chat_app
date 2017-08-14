@@ -72,3 +72,6 @@ src/
 # Celery
 celerybeat-schedule
 celerybeat.pid
+
+# Dump
+dump.rdb
