@@ -7,3 +7,5 @@ Run `pip install -r requirements.txt`
 Run redis `redis-server` in another tab
 Run `python manage.py runserver`
 Navigate to `localhost:8000`, that's it
+
+**NB - Use `ngrok` to run on multiple devices on the internet**
