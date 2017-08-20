@@ -7,6 +7,8 @@ Activate your virtualenv
 
 Run `pip install -r requirements.txt`
 
+Run migrations
+
 Run redis `redis-server` in another tab
 
 Run `python manage.py runserver`
